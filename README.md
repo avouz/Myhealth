@@ -14,5 +14,5 @@ data, leveraging technologies like Kubernetes, Apache Cassandra, Apache Spark, F
 and ReactJS. The outcome of this work is not merely a prototype application but aims at
 developing a broader architecture for an EHR management system.
 
-##Keywords: Electronic Health Record, parallel system, distributed system, Kubernetes, Apache
+#Keywords: Electronic Health Record, parallel system, distributed system, Kubernetes, Apache
 Cassandra, Apache Spark, FastAPI, ReactJS.
