@@ -1,5 +1,6 @@
-# Myhealth
-PARALLEL AND DISTRIBUTED ELECTRONIC HEALTH RECORD MANAGEMENT SYSTEM
+# Parallel and Distributed Electronic Health Record Management System
+
+This project is a bachelor's thesis by Antonios Vouzas , under the advisement of Michael Vassilakopoulos, developed at the University of Thessaly, Electrical and Computer Engineering Department.
 
 ## Abstract
 In the era of technological advancement, Electronic Health Record (EHR) management systems
@@ -16,3 +17,26 @@ developing a broader architecture for an EHR management system.
 
 #Keywords: Electronic Health Record, parallel system, distributed system, Kubernetes, Apache
 Cassandra, Apache Spark, FastAPI, ReactJS.
+
+
+
+## Metadata
+
+- **Advisor**: Μιχαήλ Βασιλακόπουλος
+- **Author**: Αντώνιος Λ. Βούζας
+- **Academic Year**: 2023
+- **Identifier URI**: [hdl.handle.net/11615/82888](http://hdl.handle.net/11615/82888)
+- **Language**: Greek (el), English Summary
+- **Rights**: [Attribution-NonCommercial-NoDerivatives 4.0 International](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+- **Record Provider**: University of Thessaly - Library and Information Center
+- **Academic Publisher**: University of Thessaly, Polytechnic School, Department of Electrical and Computer Engineers
+- **Committee Members**: Eleni Tousidou, Hariklia Tsalapata
+
+
+## Full Text Availability
+
+The full text of this thesis is available [here](http://hdl.handle.net/11615/82888).
+
+## License
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
